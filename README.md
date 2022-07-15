@@ -3,7 +3,7 @@
 A young couple wants to buy a house with connected devices and solar panels. The owner has collected and shared data from IoT devices. 
 They would like me to analyze those, check eventual power consumption anomalies and have tips to optimize the installation. As a bonus they asked if I could predict future consumption using AI. This would help to decide whether to buy it or not, and to estimate the cost of eventual improvements.
 
-![main](dom.png)
+![main](dom.jpg)
 
 Those were my conclusions after EDA and application of anomaly detection and forecast algorithms:
 
