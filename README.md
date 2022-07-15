@@ -35,5 +35,5 @@ Models built with LightGBM can predict future energy consumption when weather in
 
 - Home appliances work well, no evident faults detected from trends anomaly.
 
-
+![EDA](EDA.png)
 
